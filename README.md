@@ -1,6 +1,6 @@
 # Dos-Dagas
 
-**Deploy:https://henry-pf-iota.vercel.app/ **
+Deploy: https://henry-pf-iota.vercel.app/
 
 
 **npm i en ambas carpetas**
