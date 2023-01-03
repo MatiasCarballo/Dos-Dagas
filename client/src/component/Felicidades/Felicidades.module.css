@@ -1,0 +1,77 @@
+.Felicidades{
+    display: flex;
+    justify-content: center;
+    background: rgb(133, 133, 133);
+    padding: 20px 0;
+}
+.Conteiner{
+    height: 100vh;
+    width: 70%;
+    border-radius: 20px;
+    background-color: #fff;
+    
+}
+.logo{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    height: 100%;
+}
+
+.agradecimiento{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    padding-left: 50px;
+}
+.recibo{
+    
+}
+.title{
+    justify-content: start;
+    font-size: 1.5rem;
+    padding: 15px 0;
+    padding-left: 50px;
+}
+.grilla{
+    /* padding: 20px 0; */
+    margin: 0 10%;
+}
+.grid{
+    padding: 0 10px;
+    display: grid;
+    height: 7vh;
+    align-items: center;
+    grid-template-columns: 16vw 16vw 16vw 16vw ;
+    border: 1px solid black;
+    columns: 12vw;
+    
+}
+.elemento{
+    display: flex;
+    align-content: flex-end;
+    margin: 0 10px;
+}
+
+.contacto{
+    display: flex;
+    margin: 0 50px;
+}
+.contacto1{
+    width: 80%;
+    font-size: 1.25rem;
+    padding-top: 25px;
+}
+.contacto1 div{
+    padding-bottom: 10px;
+}
+
+.check img{
+    width: 150px;
+    height: 150px;
+    
+}
